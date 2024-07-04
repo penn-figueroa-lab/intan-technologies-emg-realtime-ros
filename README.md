@@ -1,4 +1,4 @@
-# Intan EMG ROS publisher
+# Intan TEchnologies EMG ROS
 The code for reading the Intan Technologies file in real time and publishing it into ROS. Modified the original [Python code](https://intantech.com/files/load_intan_rhd_format.zip) provided by the company to fix the existing bugs.
 
 ## Usage
